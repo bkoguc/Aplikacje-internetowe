@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+    background-color: gray;
+
+}
+
+option[disabled="true"]{
+    background-color: darkgray;
+}
